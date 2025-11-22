@@ -1,0 +1,31 @@
+{
+  "recommendations": [
+    // React y JavaScript/TypeScript
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    
+    // Tailwind CSS
+    "bradlc.vscode-tailwindcss",
+    
+    // TypeScript
+    "ms-vscode.vscode-typescript-next",
+    
+    // Utilidades de archivo
+    "christian-kohler.path-intellisense",
+    "formulahendry.auto-rename-tag",
+    
+    // Visual
+    "naumovs.color-highlight",
+    "PKief.material-icon-theme",
+    
+    // Git
+    "eamodio.gitlens",
+    
+    // Markdown
+    "yzhang.markdown-all-in-one",
+    
+    // Live Server (opcional)
+    "ritwickdey.LiveServer"
+  ]
+}
